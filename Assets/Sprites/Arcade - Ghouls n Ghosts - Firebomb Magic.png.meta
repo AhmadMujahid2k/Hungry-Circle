@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 58f2fa859b36943db9a9323c5a2e4d74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8658487268541753609
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_0
+  - first:
+      213: 6525998311380021381
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_1
+  - first:
+      213: 4799569544826490091
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_2
+  - first:
+      213: -5713209039837781646
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_3
+  - first:
+      213: 8518342905852033525
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_4
+  - first:
+      213: -842121791215834662
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_5
+  - first:
+      213: -405477698972410738
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_6
+  - first:
+      213: 8254105139032804114
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_7
+  - first:
+      213: -6403014943668653101
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_8
+  - first:
+      213: 4669316265336514256
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_9
+  - first:
+      213: 8197353539751630720
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_10
+  - first:
+      213: -910137419939496338
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_11
+  - first:
+      213: -2263824813440997052
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_12
+  - first:
+      213: 6748831498033203373
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_13
+  - first:
+      213: 7374726230447321877
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_14
+  - first:
+      213: 9118046497737537660
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_15
+  - first:
+      213: -5700689255079169192
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_16
+  - first:
+      213: -795185073920541000
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_17
+  - first:
+      213: -8547406396738982376
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_18
+  - first:
+      213: -7450596238317146910
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_19
+  - first:
+      213: -590117160344040018
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_20
+  - first:
+      213: -8141640657458070054
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_21
+  - first:
+      213: 4088712621595799540
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_22
+  - first:
+      213: -3849631661407963735
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_23
+  - first:
+      213: 3175004996229403580
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_24
+  - first:
+      213: -2492196483868002857
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_25
+  - first:
+      213: -7100982261709376936
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_26
+  - first:
+      213: 5448867708849476350
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_27
+  - first:
+      213: 2987530145758043062
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_28
+  - first:
+      213: -2316589855877927556
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_29
+  - first:
+      213: -6417223207796677558
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_30
+  - first:
+      213: -3291276146553935853
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_31
+  - first:
+      213: 7034325767732643210
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_32
+  - first:
+      213: 8690087112874772190
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_33
+  - first:
+      213: -5837014053630237069
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_34
+  - first:
+      213: -2823706442169468126
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_35
+  - first:
+      213: -1690539545059699344
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_36
+  - first:
+      213: 6673644217621406985
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_37
+  - first:
+      213: 3602133440452611097
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_38
+  - first:
+      213: 4390919920111009112
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_39
+  - first:
+      213: 5909383919630355097
+    second: Arcade - Ghouls n Ghosts - Firebomb Magic_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096cadcb40292870800000000000000
+      internalID: 8658487268541753609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580fa9253e0019a50800000000000000
+      internalID: 6525998311380021381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 52
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8a22621f7b9240800000000000000
+      internalID: 4799569544826490091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712bece5aa96b0b0800000000000000
+      internalID: -5713209039837781646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 51
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f97742adbb373670800000000000000
+      internalID: 8518342905852033525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e6f051be2054f0800000000000000
+      internalID: -842121791215834662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 54
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c186c5e247f5af0800000000000000
+      internalID: -405477698972410738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 54
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc6ce44e87c8270800000000000000
+      internalID: 8254105139032804114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 46
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3bc1755dbe327a0800000000000000
+      internalID: -6403014943668653101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6265b776ebcc040800000000000000
+      internalID: 4669316265336514256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087df2bec99d2c170800000000000000
+      internalID: 8197353539751630720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e37b3b6da8e53f0800000000000000
+      internalID: -910137419939496338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449622193574590e0800000000000000
+      internalID: -2263824813440997052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88c399d7aa8ad50800000000000000
+      internalID: 6748831498033203373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51371910f6a485660800000000000000
+      internalID: 7374726230447321877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f32feafec98e70800000000000000
+      internalID: 9118046497737537660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853be18735513e0b0800000000000000
+      internalID: -5700689255079169192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef54a636fe6f4f0800000000000000
+      internalID: -795185073920541000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea8731b23816980800000000000000
+      internalID: -8547406396738982376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecae3a323a2a9890800000000000000
+      internalID: -7450596238317146910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc4d9b19b7fc7f0800000000000000
+      internalID: -590117160344040018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add755355f4130f80800000000000000
+      internalID: -8141640657458070054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffafd667760eb830800000000000000
+      internalID: 4088712621595799540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57ea1766c539ac0800000000000000
+      internalID: -3849631661407963735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31850e832ef0c20800000000000000
+      internalID: 3175004996229403580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f19c8080f96dd0800000000000000
+      internalID: -2492196483868002857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852767e614e347d90800000000000000
+      internalID: -7100982261709376936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d116df444e9b40800000000000000
+      internalID: 5448867708849476350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdda5c6d6d57920800000000000000
+      internalID: 2987530145758043062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d6f16ccc1d9dfd0800000000000000
+      internalID: -2316589855877927556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e2ee0e7171f6a0800000000000000
+      internalID: -6417223207796677558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318afea58c90352d0800000000000000
+      internalID: -3291276146553935853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c41c2402fe9160800000000000000
+      internalID: 7034325767732643210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c916ef24699870800000000000000
+      internalID: 8690087112874772190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762860e4a2cefea0800000000000000
+      internalID: -5837014053630237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bb18493fd20d8d0800000000000000
+      internalID: -2823706442169468126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07557f99d3ff988e0800000000000000
+      internalID: -1690539545059699344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e9a4be0c8d9c50800000000000000
+      internalID: 6673644217621406985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ccbb777495df130800000000000000
+      internalID: 3602133440452611097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d376b376eafec30800000000000000
+      internalID: 4390919920111009112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Firebomb Magic_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a09fa9d59520250800000000000000
+      internalID: 5909383919630355097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Firebomb Magic_0: 8658487268541753609
+      Arcade - Ghouls n Ghosts - Firebomb Magic_1: 6525998311380021381
+      Arcade - Ghouls n Ghosts - Firebomb Magic_10: 8197353539751630720
+      Arcade - Ghouls n Ghosts - Firebomb Magic_11: -910137419939496338
+      Arcade - Ghouls n Ghosts - Firebomb Magic_12: -2263824813440997052
+      Arcade - Ghouls n Ghosts - Firebomb Magic_13: 6748831498033203373
+      Arcade - Ghouls n Ghosts - Firebomb Magic_14: 7374726230447321877
+      Arcade - Ghouls n Ghosts - Firebomb Magic_15: 9118046497737537660
+      Arcade - Ghouls n Ghosts - Firebomb Magic_16: -5700689255079169192
+      Arcade - Ghouls n Ghosts - Firebomb Magic_17: -795185073920541000
+      Arcade - Ghouls n Ghosts - Firebomb Magic_18: -8547406396738982376
+      Arcade - Ghouls n Ghosts - Firebomb Magic_19: -7450596238317146910
+      Arcade - Ghouls n Ghosts - Firebomb Magic_2: 4799569544826490091
+      Arcade - Ghouls n Ghosts - Firebomb Magic_20: -590117160344040018
+      Arcade - Ghouls n Ghosts - Firebomb Magic_21: -8141640657458070054
+      Arcade - Ghouls n Ghosts - Firebomb Magic_22: 4088712621595799540
+      Arcade - Ghouls n Ghosts - Firebomb Magic_23: -3849631661407963735
+      Arcade - Ghouls n Ghosts - Firebomb Magic_24: 3175004996229403580
+      Arcade - Ghouls n Ghosts - Firebomb Magic_25: -2492196483868002857
+      Arcade - Ghouls n Ghosts - Firebomb Magic_26: -7100982261709376936
+      Arcade - Ghouls n Ghosts - Firebomb Magic_27: 5448867708849476350
+      Arcade - Ghouls n Ghosts - Firebomb Magic_28: 2987530145758043062
+      Arcade - Ghouls n Ghosts - Firebomb Magic_29: -2316589855877927556
+      Arcade - Ghouls n Ghosts - Firebomb Magic_3: -5713209039837781646
+      Arcade - Ghouls n Ghosts - Firebomb Magic_30: -6417223207796677558
+      Arcade - Ghouls n Ghosts - Firebomb Magic_31: -3291276146553935853
+      Arcade - Ghouls n Ghosts - Firebomb Magic_32: 7034325767732643210
+      Arcade - Ghouls n Ghosts - Firebomb Magic_33: 8690087112874772190
+      Arcade - Ghouls n Ghosts - Firebomb Magic_34: -5837014053630237069
+      Arcade - Ghouls n Ghosts - Firebomb Magic_35: -2823706442169468126
+      Arcade - Ghouls n Ghosts - Firebomb Magic_36: -1690539545059699344
+      Arcade - Ghouls n Ghosts - Firebomb Magic_37: 6673644217621406985
+      Arcade - Ghouls n Ghosts - Firebomb Magic_38: 3602133440452611097
+      Arcade - Ghouls n Ghosts - Firebomb Magic_39: 4390919920111009112
+      Arcade - Ghouls n Ghosts - Firebomb Magic_4: 8518342905852033525
+      Arcade - Ghouls n Ghosts - Firebomb Magic_40: 5909383919630355097
+      Arcade - Ghouls n Ghosts - Firebomb Magic_5: -842121791215834662
+      Arcade - Ghouls n Ghosts - Firebomb Magic_6: -405477698972410738
+      Arcade - Ghouls n Ghosts - Firebomb Magic_7: 8254105139032804114
+      Arcade - Ghouls n Ghosts - Firebomb Magic_8: -6403014943668653101
+      Arcade - Ghouls n Ghosts - Firebomb Magic_9: 4669316265336514256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
