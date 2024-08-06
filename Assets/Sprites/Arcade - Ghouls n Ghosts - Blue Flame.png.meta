@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 01e7a93d073fe424685f5d01016cfb14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7994809900068620895
+    second: Arcade - Ghouls n Ghosts - Blue Flame_0
+  - first:
+      213: 8532094935733867182
+    second: Arcade - Ghouls n Ghosts - Blue Flame_1
+  - first:
+      213: 2554537982501837789
+    second: Arcade - Ghouls n Ghosts - Blue Flame_2
+  - first:
+      213: -6856582710189361346
+    second: Arcade - Ghouls n Ghosts - Blue Flame_3
+  - first:
+      213: 6619336896007901164
+    second: Arcade - Ghouls n Ghosts - Blue Flame_4
+  - first:
+      213: -634942831566182132
+    second: Arcade - Ghouls n Ghosts - Blue Flame_5
+  - first:
+      213: -6882400879992436548
+    second: Arcade - Ghouls n Ghosts - Blue Flame_6
+  - first:
+      213: -3728692558869405264
+    second: Arcade - Ghouls n Ghosts - Blue Flame_7
+  - first:
+      213: 6950314015241809768
+    second: Arcade - Ghouls n Ghosts - Blue Flame_8
+  - first:
+      213: -112657298617963002
+    second: Arcade - Ghouls n Ghosts - Blue Flame_9
+  - first:
+      213: -6185142484115032568
+    second: Arcade - Ghouls n Ghosts - Blue Flame_10
+  - first:
+      213: -3265252550279561437
+    second: Arcade - Ghouls n Ghosts - Blue Flame_11
+  - first:
+      213: 2634283327997305171
+    second: Arcade - Ghouls n Ghosts - Blue Flame_12
+  - first:
+      213: -7255262410758261167
+    second: Arcade - Ghouls n Ghosts - Blue Flame_13
+  - first:
+      213: -4537813802972589410
+    second: Arcade - Ghouls n Ghosts - Blue Flame_14
+  - first:
+      213: 1359496425909859203
+    second: Arcade - Ghouls n Ghosts - Blue Flame_15
+  - first:
+      213: -2430704046552538844
+    second: Arcade - Ghouls n Ghosts - Blue Flame_16
+  - first:
+      213: -229543715085797590
+    second: Arcade - Ghouls n Ghosts - Blue Flame_17
+  - first:
+      213: -5185755361888625122
+    second: Arcade - Ghouls n Ghosts - Blue Flame_18
+  - first:
+      213: 2900561965273812085
+    second: Arcade - Ghouls n Ghosts - Blue Flame_19
+  - first:
+      213: 3754443136618308131
+    second: Arcade - Ghouls n Ghosts - Blue Flame_20
+  - first:
+      213: 8040200691341352526
+    second: Arcade - Ghouls n Ghosts - Blue Flame_21
+  - first:
+      213: 1192729072388128833
+    second: Arcade - Ghouls n Ghosts - Blue Flame_22
+  - first:
+      213: 3236984643156472224
+    second: Arcade - Ghouls n Ghosts - Blue Flame_23
+  - first:
+      213: 5904387536085024521
+    second: Arcade - Ghouls n Ghosts - Blue Flame_24
+  - first:
+      213: -1452758600301966872
+    second: Arcade - Ghouls n Ghosts - Blue Flame_25
+  - first:
+      213: -3503497898401608242
+    second: Arcade - Ghouls n Ghosts - Blue Flame_26
+  - first:
+      213: 3538723635557886328
+    second: Arcade - Ghouls n Ghosts - Blue Flame_27
+  - first:
+      213: 5490669504371258676
+    second: Arcade - Ghouls n Ghosts - Blue Flame_28
+  - first:
+      213: 9069788655518242766
+    second: Arcade - Ghouls n Ghosts - Blue Flame_29
+  - first:
+      213: -8148607566377021527
+    second: Arcade - Ghouls n Ghosts - Blue Flame_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acd5cee3543fe60800000000000000
+      internalID: 7994809900068620895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2935a9327186670800000000000000
+      internalID: 8532094935733867182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 46
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd344b2ca837320800000000000000
+      internalID: 2554537982501837789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f3125a5688d0a0800000000000000
+      internalID: -6856582710189361346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef003f06db9cdb50800000000000000
+      internalID: 6619336896007901164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0921d7dbda3037f0800000000000000
+      internalID: -634942831566182132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8073a3ddccc70a0800000000000000
+      internalID: -6882400879992436548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b162f78fd5014cc0800000000000000
+      internalID: -3728692558869405264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f28e3c5c9747060800000000000000
+      internalID: 6950314015241809768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e6586a8c2cf6ef0800000000000000
+      internalID: -112657298617963002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80675255ea5f92aa0800000000000000
+      internalID: -6185142484115032568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff5a60b1e7fa2d0800000000000000
+      internalID: -3265252550279561437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516303dabade8420800000000000000
+      internalID: 2634283327997305171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15672860741205b90800000000000000
+      internalID: -7255262410758261167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9254f873627601c0800000000000000
+      internalID: -4537813802972589410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38335c3ebc6edd210800000000000000
+      internalID: 1359496425909859203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a12f4c87644ed0800000000000000
+      internalID: -2430704046552538844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2733e1153f70dcf0800000000000000
+      internalID: -229543715085797590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1d8249fe7808b0800000000000000
+      internalID: -5185755361888625122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c87255dbdd04820800000000000000
+      internalID: 2900561965273812085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a98f04267a1430800000000000000
+      internalID: 3754443136618308131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e50421ee7849f60800000000000000
+      internalID: 8040200691341352526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c9f0a5cc6d8010800000000000000
+      internalID: 1192729072388128833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17cb6f1641cec20800000000000000
+      internalID: 3236984643156472224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f77986e2990f150800000000000000
+      internalID: 5904387536085024521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e98b9400c3c6dbe0800000000000000
+      internalID: -1452758600301966872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc1764933116fc0800000000000000
+      internalID: -3503497898401608242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e4b7c5621c1130800000000000000
+      internalID: 3538723635557886328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357e1bc2d6c23c40800000000000000
+      internalID: 5490669504371258676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec758087abc5edd70800000000000000
+      internalID: 9069788655518242766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Blue Flame_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af890077945aee80800000000000000
+      internalID: -8148607566377021527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Blue Flame_0: 7994809900068620895
+      Arcade - Ghouls n Ghosts - Blue Flame_1: 8532094935733867182
+      Arcade - Ghouls n Ghosts - Blue Flame_10: -6185142484115032568
+      Arcade - Ghouls n Ghosts - Blue Flame_11: -3265252550279561437
+      Arcade - Ghouls n Ghosts - Blue Flame_12: 2634283327997305171
+      Arcade - Ghouls n Ghosts - Blue Flame_13: -7255262410758261167
+      Arcade - Ghouls n Ghosts - Blue Flame_14: -4537813802972589410
+      Arcade - Ghouls n Ghosts - Blue Flame_15: 1359496425909859203
+      Arcade - Ghouls n Ghosts - Blue Flame_16: -2430704046552538844
+      Arcade - Ghouls n Ghosts - Blue Flame_17: -229543715085797590
+      Arcade - Ghouls n Ghosts - Blue Flame_18: -5185755361888625122
+      Arcade - Ghouls n Ghosts - Blue Flame_19: 2900561965273812085
+      Arcade - Ghouls n Ghosts - Blue Flame_2: 2554537982501837789
+      Arcade - Ghouls n Ghosts - Blue Flame_20: 3754443136618308131
+      Arcade - Ghouls n Ghosts - Blue Flame_21: 8040200691341352526
+      Arcade - Ghouls n Ghosts - Blue Flame_22: 1192729072388128833
+      Arcade - Ghouls n Ghosts - Blue Flame_23: 3236984643156472224
+      Arcade - Ghouls n Ghosts - Blue Flame_24: 5904387536085024521
+      Arcade - Ghouls n Ghosts - Blue Flame_25: -1452758600301966872
+      Arcade - Ghouls n Ghosts - Blue Flame_26: -3503497898401608242
+      Arcade - Ghouls n Ghosts - Blue Flame_27: 3538723635557886328
+      Arcade - Ghouls n Ghosts - Blue Flame_28: 5490669504371258676
+      Arcade - Ghouls n Ghosts - Blue Flame_29: 9069788655518242766
+      Arcade - Ghouls n Ghosts - Blue Flame_3: -6856582710189361346
+      Arcade - Ghouls n Ghosts - Blue Flame_30: -8148607566377021527
+      Arcade - Ghouls n Ghosts - Blue Flame_4: 6619336896007901164
+      Arcade - Ghouls n Ghosts - Blue Flame_5: -634942831566182132
+      Arcade - Ghouls n Ghosts - Blue Flame_6: -6882400879992436548
+      Arcade - Ghouls n Ghosts - Blue Flame_7: -3728692558869405264
+      Arcade - Ghouls n Ghosts - Blue Flame_8: 6950314015241809768
+      Arcade - Ghouls n Ghosts - Blue Flame_9: -112657298617963002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
